@@ -1,0 +1,16 @@
+﻿Name: TV wall panel 02
+Type: model
+Format: 3Ds Max 2017
+Export: OBJ, MAT
+Render: Corona (5)
+Polys: 59168
+Verts: 51344
+Units: Millimeters
+Dimension: 574.11 x 4118.96 x 3000.94
+Preset: 3DSKY
+Date: 2024.5.25
+Tags: 
+Packinfo: Packed with Model Packer by https://3dground.net/
+Packver: 1.9.6
+Description:
+
